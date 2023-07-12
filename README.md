@@ -16,9 +16,10 @@ It keeps a list of already-copied messages on file, so you can run it multiple t
 
 ## How to use
 0. Clone this repository and cd into the corresponding directory:
-```
-git clone  
-```
+    ```
+    git clone git@github.com:rgiessmann/telegram-copy-messages.git
+    cd telegram-copy-messages
+    ```
 1. Copy `.env.example` to `.env`.
     ```
     cp .env.example .env
