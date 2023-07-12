@@ -1,3 +1,0 @@
-python-dotenv==0.13.0
-python-telegram==0.17.0
-telegram-text==0.1.1
