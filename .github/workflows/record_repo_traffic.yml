@@ -16,14 +16,13 @@ jobs:
       with:
         ref: 'traffic'
     - run: ls -lh
-    - run: pwd
-    - run: cp telegram-copy-messages/traffic/* ./traffic/
+    - run: pwd && cd .. && pwd && ls -lh
+    - run: mkdir traffic && cp telegram-copy-messages/traffic/* ./traffic/ && true
     # Calculates traffic and clones and stores in CSV file
     - name: GitHub traffic 
-      uses: sangonzal/repository-traffic-action@v0.1.5
+      uses: sangonzal/repository-traffic-action@v0.1.6
       env:
         TRAFFIC_ACTION_TOKEN: ${{ secrets.TRAFFIC_ACTION_TOKEN }} 
-     
     - run: ls -lh
     - run: |
           git config user.name github-actions
