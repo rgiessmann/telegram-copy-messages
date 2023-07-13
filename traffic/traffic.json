@@ -1,0 +1,21 @@
+[
+  {
+    "views": {
+      "uniques": 1,
+      "count": 38
+    },
+    "timestamp": "2023-07-12T00:00:00Z",
+    "clones": {
+      "uniques": 5,
+      "count": 25
+    }
+  },
+  {
+    "views": {
+      "uniques": 1,
+      "count": 7
+    },
+    "timestamp": "2023-07-13T00:00:00Z",
+    "clones": null
+  }
+]
