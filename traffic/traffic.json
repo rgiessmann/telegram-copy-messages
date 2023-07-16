@@ -13,9 +13,28 @@
   {
     "views": {
       "uniques": 1,
-      "count": 7
+      "count": 63
     },
     "timestamp": "2023-07-13T00:00:00Z",
+    "clones": {
+      "uniques": 9,
+      "count": 27
+    }
+  },
+  {
+    "views": null,
+    "timestamp": "2023-07-15T00:00:00Z",
+    "clones": {
+      "uniques": 1,
+      "count": 1
+    }
+  },
+  {
+    "views": {
+      "uniques": 1,
+      "count": 8
+    },
+    "timestamp": "2023-07-16T00:00:00Z",
     "clones": null
   }
 ]
