@@ -1214,10 +1214,13 @@
   },
   {
     "views": {
-      "uniques": 3,
-      "count": 3
+      "uniques": 4,
+      "count": 18
     },
     "timestamp": "2023-12-31T00:00:00Z",
-    "clones": null
+    "clones": {
+      "uniques": 2,
+      "count": 2
+    }
   }
 ]
