@@ -1918,6 +1918,74 @@
     },
     "timestamp": "2024-03-17T00:00:00Z",
     "clones": {
+      "uniques": 2,
+      "count": 2
+    }
+  },
+  {
+    "views": {
+      "uniques": 4,
+      "count": 5
+    },
+    "timestamp": "2024-03-18T00:00:00Z",
+    "clones": {
+      "uniques": 1,
+      "count": 1
+    }
+  },
+  {
+    "views": {
+      "uniques": 4,
+      "count": 12
+    },
+    "timestamp": "2024-03-19T00:00:00Z",
+    "clones": null
+  },
+  {
+    "views": {
+      "uniques": 4,
+      "count": 5
+    },
+    "timestamp": "2024-03-20T00:00:00Z",
+    "clones": {
+      "uniques": 1,
+      "count": 1
+    }
+  },
+  {
+    "views": {
+      "uniques": 14,
+      "count": 33
+    },
+    "timestamp": "2024-03-21T00:00:00Z",
+    "clones": {
+      "uniques": 2,
+      "count": 2
+    }
+  },
+  {
+    "views": {
+      "uniques": 2,
+      "count": 2
+    },
+    "timestamp": "2024-03-22T00:00:00Z",
+    "clones": null
+  },
+  {
+    "views": {
+      "uniques": 3,
+      "count": 7
+    },
+    "timestamp": "2024-03-23T00:00:00Z",
+    "clones": null
+  },
+  {
+    "views": {
+      "uniques": 2,
+      "count": 7
+    },
+    "timestamp": "2024-03-24T00:00:00Z",
+    "clones": {
       "uniques": 1,
       "count": 1
     }
