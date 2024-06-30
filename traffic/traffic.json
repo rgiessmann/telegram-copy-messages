@@ -2789,6 +2789,71 @@
       "count": 5
     },
     "timestamp": "2024-06-23T00:00:00Z",
+    "clones": {
+      "uniques": 2,
+      "count": 2
+    }
+  },
+  {
+    "views": {
+      "uniques": 6,
+      "count": 7
+    },
+    "timestamp": "2024-06-24T00:00:00Z",
+    "clones": null
+  },
+  {
+    "views": {
+      "uniques": 8,
+      "count": 21
+    },
+    "timestamp": "2024-06-25T00:00:00Z",
+    "clones": null
+  },
+  {
+    "views": {
+      "uniques": 6,
+      "count": 12
+    },
+    "timestamp": "2024-06-26T00:00:00Z",
+    "clones": {
+      "uniques": 1,
+      "count": 1
+    }
+  },
+  {
+    "views": {
+      "uniques": 4,
+      "count": 4
+    },
+    "timestamp": "2024-06-27T00:00:00Z",
+    "clones": null
+  },
+  {
+    "views": {
+      "uniques": 5,
+      "count": 7
+    },
+    "timestamp": "2024-06-28T00:00:00Z",
+    "clones": null
+  },
+  {
+    "views": {
+      "uniques": 5,
+      "count": 9
+    },
+    "timestamp": "2024-06-29T00:00:00Z",
+    "clones": {
+      "uniques": 1,
+      "count": 1
+    }
+  },
+  {
+    "views": {
+      "uniques": 5,
+      "count": 9
+    },
+    "timestamp": "2024-06-30T00:00:00Z",
     "clones": null
   }
 ]
