@@ -4231,5 +4231,32 @@
     },
     "timestamp": "2024-11-28T00:00:00Z",
     "clones": null
+  },
+  {
+    "views": {
+      "uniques": 5,
+      "count": 22
+    },
+    "timestamp": "2024-11-29T00:00:00Z",
+    "clones": {
+      "uniques": 1,
+      "count": 1
+    }
+  },
+  {
+    "views": {
+      "uniques": 8,
+      "count": 12
+    },
+    "timestamp": "2024-11-30T00:00:00Z",
+    "clones": null
+  },
+  {
+    "views": {
+      "uniques": 5,
+      "count": 6
+    },
+    "timestamp": "2024-12-01T00:00:00Z",
+    "clones": null
   }
 ]
