@@ -4699,10 +4699,69 @@
   },
   {
     "views": {
-      "uniques": 8,
-      "count": 12
+      "uniques": 9,
+      "count": 18
     },
     "timestamp": "2025-01-19T00:00:00Z",
+    "clones": {
+      "uniques": 1,
+      "count": 1
+    }
+  },
+  {
+    "views": {
+      "uniques": 8,
+      "count": 8
+    },
+    "timestamp": "2025-01-20T00:00:00Z",
+    "clones": null
+  },
+  {
+    "views": {
+      "uniques": 4,
+      "count": 5
+    },
+    "timestamp": "2025-01-21T00:00:00Z",
+    "clones": null
+  },
+  {
+    "views": {
+      "uniques": 8,
+      "count": 11
+    },
+    "timestamp": "2025-01-22T00:00:00Z",
+    "clones": null
+  },
+  {
+    "views": {
+      "uniques": 8,
+      "count": 10
+    },
+    "timestamp": "2025-01-23T00:00:00Z",
+    "clones": null
+  },
+  {
+    "views": {
+      "uniques": 7,
+      "count": 14
+    },
+    "timestamp": "2025-01-24T00:00:00Z",
+    "clones": null
+  },
+  {
+    "views": {
+      "uniques": 2,
+      "count": 2
+    },
+    "timestamp": "2025-01-25T00:00:00Z",
+    "clones": null
+  },
+  {
+    "views": {
+      "uniques": 5,
+      "count": 7
+    },
+    "timestamp": "2025-01-26T00:00:00Z",
     "clones": null
   }
 ]
