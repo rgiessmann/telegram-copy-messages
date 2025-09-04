@@ -8,6 +8,12 @@ data/message_copy_dict.pickle
 ### dotenv ###
 .env
 
+### Session ###
+*.session
+
+### Virtual Environment ###
+aceEnv/
+
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
