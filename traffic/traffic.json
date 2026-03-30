@@ -8754,5 +8754,82 @@
       "uniques": 1,
       "count": 1
     }
+  },
+  {
+    "views": {
+      "uniques": 0,
+      "count": 0
+    },
+    "timestamp": "2026-03-22T00:00:00Z",
+    "clones": {
+      "uniques": 0,
+      "count": 0
+    }
+  },
+  {
+    "views": {
+      "uniques": 1,
+      "count": 1
+    },
+    "timestamp": "2026-03-23T00:00:00Z",
+    "clones": {
+      "uniques": 4,
+      "count": 6
+    }
+  },
+  {
+    "views": {
+      "uniques": 4,
+      "count": 4
+    },
+    "timestamp": "2026-03-24T00:00:00Z",
+    "clones": {
+      "uniques": 2,
+      "count": 2
+    }
+  },
+  {
+    "views": {
+      "uniques": 5,
+      "count": 5
+    },
+    "timestamp": "2026-03-25T00:00:00Z",
+    "clones": {
+      "uniques": 1,
+      "count": 1
+    }
+  },
+  {
+    "views": {
+      "uniques": 0,
+      "count": 0
+    },
+    "timestamp": "2026-03-26T00:00:00Z",
+    "clones": {
+      "uniques": 0,
+      "count": 0
+    }
+  },
+  {
+    "views": {
+      "uniques": 2,
+      "count": 2
+    },
+    "timestamp": "2026-03-27T00:00:00Z",
+    "clones": {
+      "uniques": 0,
+      "count": 0
+    }
+  },
+  {
+    "views": {
+      "uniques": 0,
+      "count": 0
+    },
+    "timestamp": "2026-03-28T00:00:00Z",
+    "clones": {
+      "uniques": 1,
+      "count": 1
+    }
   }
 ]
