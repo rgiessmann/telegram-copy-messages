@@ -8831,5 +8831,82 @@
       "uniques": 1,
       "count": 1
     }
+  },
+  {
+    "views": {
+      "uniques": 1,
+      "count": 1
+    },
+    "timestamp": "2026-03-29T00:00:00Z",
+    "clones": {
+      "uniques": 0,
+      "count": 0
+    }
+  },
+  {
+    "views": {
+      "uniques": 2,
+      "count": 2
+    },
+    "timestamp": "2026-03-30T00:00:00Z",
+    "clones": {
+      "uniques": 5,
+      "count": 5
+    }
+  },
+  {
+    "views": {
+      "uniques": 3,
+      "count": 4
+    },
+    "timestamp": "2026-03-31T00:00:00Z",
+    "clones": {
+      "uniques": 0,
+      "count": 0
+    }
+  },
+  {
+    "views": {
+      "uniques": 0,
+      "count": 0
+    },
+    "timestamp": "2026-04-01T00:00:00Z",
+    "clones": {
+      "uniques": 1,
+      "count": 1
+    }
+  },
+  {
+    "views": {
+      "uniques": 1,
+      "count": 2
+    },
+    "timestamp": "2026-04-02T00:00:00Z",
+    "clones": {
+      "uniques": 1,
+      "count": 1
+    }
+  },
+  {
+    "views": {
+      "uniques": 2,
+      "count": 2
+    },
+    "timestamp": "2026-04-03T00:00:00Z",
+    "clones": {
+      "uniques": 0,
+      "count": 0
+    }
+  },
+  {
+    "views": {
+      "uniques": 2,
+      "count": 2
+    },
+    "timestamp": "2026-04-04T00:00:00Z",
+    "clones": {
+      "uniques": 0,
+      "count": 0
+    }
   }
 ]
