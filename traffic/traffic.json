@@ -11372,5 +11372,82 @@
       "uniques": 1,
       "count": 1
     }
+  },
+  {
+    "views": {
+      "uniques": 0,
+      "count": 0
+    },
+    "timestamp": "2026-11-15T00:00:00Z",
+    "clones": {
+      "uniques": 0,
+      "count": 0
+    }
+  },
+  {
+    "views": {
+      "uniques": 0,
+      "count": 0
+    },
+    "timestamp": "2026-11-16T00:00:00Z",
+    "clones": {
+      "uniques": 1,
+      "count": 1
+    }
+  },
+  {
+    "views": {
+      "uniques": 1,
+      "count": 1
+    },
+    "timestamp": "2026-11-17T00:00:00Z",
+    "clones": {
+      "uniques": 1,
+      "count": 1
+    }
+  },
+  {
+    "views": {
+      "uniques": 2,
+      "count": 2
+    },
+    "timestamp": "2026-11-18T00:00:00Z",
+    "clones": {
+      "uniques": 0,
+      "count": 0
+    }
+  },
+  {
+    "views": {
+      "uniques": 2,
+      "count": 2
+    },
+    "timestamp": "2026-11-19T00:00:00Z",
+    "clones": {
+      "uniques": 1,
+      "count": 1
+    }
+  },
+  {
+    "views": {
+      "uniques": 0,
+      "count": 0
+    },
+    "timestamp": "2026-11-20T00:00:00Z",
+    "clones": {
+      "uniques": 0,
+      "count": 0
+    }
+  },
+  {
+    "views": {
+      "uniques": 1,
+      "count": 1
+    },
+    "timestamp": "2026-11-21T00:00:00Z",
+    "clones": {
+      "uniques": 1,
+      "count": 1
+    }
   }
 ]
